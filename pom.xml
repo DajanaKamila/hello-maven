@@ -78,6 +78,10 @@
                     <reuseForks>true</reuseForks>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
+
+
+
 </project>
